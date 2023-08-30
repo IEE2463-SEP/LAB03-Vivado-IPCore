@@ -18,3 +18,5 @@ Este laboratorio nos muestra como crear un IP Core personalizado en Vivado
 * Contenidos de la Ayudantia 02
 * [Lectura03](https://github.com/IEE2463-SEP/Lecturas/blob/main/03.-Zynq_y_AXI_Intro.pdf) IEE2463
 * Apuntes Protocolo [AXI](https://github.com/IEE2463-SEP/Lecturas/blob/main/03.-AXI%20Summary-Notes.pdf)
+
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB03-Vivado-IPCore/blob/main/LAB03_IPCORE.pptx) desarrollada en el del Laboratorio 
