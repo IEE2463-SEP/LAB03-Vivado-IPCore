@@ -15,7 +15,7 @@ Este laboratorio nos muestra como crear un IP Core personalizado en Vivado
 3. Previo al Quiz03, realizado en los primeros 10-15min de cada laboratorio, debes estudiar personalizadamente:
 
 * Ver y ejecutar el video del [laboratorio 03](https://youtu.be/ZkxBIlFdjK8).
-* Contenidos de la Ayudantia 02
+* Contenidos de la [Ayudantia 02](https://youtu.be/h553pa4J9vg).
 * [Lectura03](https://github.com/IEE2463-SEP/Lecturas/blob/main/03.-Zynq_y_AXI_Intro.pdf) IEE2463
 * Apuntes Protocolo [AXI](https://github.com/IEE2463-SEP/Lecturas/blob/main/03.-AXI%20Summary-Notes.pdf)
 
